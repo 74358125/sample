@@ -1,7 +1,7 @@
 <html>
 <head> testing jira with git integration </head>
 <body>
-text my name is shekar from git to jira full integration shows the body of the work total commits and build also we have to chnage the dashboards also 
+text my name is shekar from git to jira full integration shows the dy of the work total commits and build also we have to chnage the dashboards also 
 1.build the code
 </body>
 </html>
